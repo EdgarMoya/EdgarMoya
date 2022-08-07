@@ -1,9 +1,10 @@
 <img src="https://komarev.com/ghpvc/?username=EdgarMoya&color=2685BF&style=flat-square" alt=""/>
 <h1>Hi there, my name is Edgar Moya <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="35"/></h1>
 
-
 ### :man_technologist: About Me:
 I'm a Cuban programming enthusiast, with the spirit of sharing knowledge
+
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 [![ApacheNetbeans](https://img.shields.io/badge/Apache_Netbeans-FF9900?style=for-the-badge&logo=ApacheNetBeansIDE&logoColor=white&labelColor=101010)]()
@@ -23,13 +24,13 @@ I'm a Cuban programming enthusiast, with the spirit of sharing knowledge
 </br>
 And learning more...
 
+---
 
 ### :fire: My GitHub Stats:
 
 <div id="stats" align="center">
-
+  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EdgarMoya&theme=dracula&hide_border=true)](https://git.io/streak-stats)
-
 [![EdgarMoya's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdgarMoya&theme=dracula&hide_border=true)](https://github.com/EdgarMoya/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdgarMoya&theme=dracula&hide_border=true&layout=compact)](https://github.com/EdgarMoya/github-readme-stats)
