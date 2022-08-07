@@ -1,5 +1,6 @@
-<img src="https://komarev.com/ghpvc/?username=EdgarMoya&color=2685BF&style=flat-square" alt=""/>
 <h1>Hi there, my name is Edgar Moya <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="35"/></h1>
+
+<img src="https://komarev.com/ghpvc/?username=EdgarMoya&color=2685BF&style=flat-square" alt=""/>
 
 ### :man_technologist: About Me:
 I'm a Cuban programming enthusiast, with the spirit of sharing knowledge
