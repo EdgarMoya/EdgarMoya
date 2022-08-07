@@ -1,9 +1,11 @@
-![GitHub Views](https://komarev.com/ghpvc/?username=EdgarMoya&color=2685BF) 
+<img src="https://komarev.com/ghpvc/?username=EdgarMoya&color=2685BF&style=flat-square" alt=""/>
+<h1>Hi there, my name is Edgar Moya <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="35"/></h1>
 
-## Hi there 👋,
+
+### :man_technologist: About Me:
 I'm a Cuban programming enthusiast, with the spirit of sharing knowledge
 
-## Skills:
+### :hammer_and_wrench: Languages and Tools :
 [![ApacheNetbeans](https://img.shields.io/badge/Apache_Netbeans-FF9900?style=for-the-badge&logo=ApacheNetBeansIDE&logoColor=white&labelColor=101010)]()
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 </br>
@@ -16,11 +18,18 @@ I'm a Cuban programming enthusiast, with the spirit of sharing knowledge
 </br>
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white&labelColor=101010)]()
 </br>
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white&labelColor=101010)]()
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=101010)]()
+</br>
 And learning more...
 
 
-## &#x1f4c8; My GitHub Stats:
+### :fire: My GitHub Stats:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdgarMoya)](https://github.com/EdgarMoya/github-readme-stats)
+<div id="stats" align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdgarMoya&layout=compact)](https://github.com/EdgarMoya/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EdgarMoya&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+
+[![EdgarMoya's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdgarMoya&theme=dracula&hide_border=true)](https://github.com/EdgarMoya/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdgarMoya&theme=dracula&hide_border=true&layout=compact)](https://github.com/EdgarMoya/github-readme-stats)
