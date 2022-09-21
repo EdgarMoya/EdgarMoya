@@ -7,9 +7,9 @@ I'm a Cuban programming enthusiast, with the spirit of sharing knowledge
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools:
 [![ApacheNetbeans](https://img.shields.io/badge/Apache_Netbeans-FF9900?style=for-the-badge&logo=ApacheNetBeansIDE&logoColor=white&labelColor=101010)]()
-[![Java](https://img.shields.io/badge/Java-F47D31?style=for-the-badge&logo=BuyMeACoffee&logoColor=white&labelColor=101010)]()
+[![Java](https://img.shields.io/badge/Java-F5792A?style=for-the-badge&logo=BuyMeACoffee&logoColor=white&labelColor=101010)]()
 </br>
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
