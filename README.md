@@ -1,6 +1,6 @@
 <h1>Hi there, my name is Edgar Moya <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="35"/></h1>
 
-<img src="https://komarev.com/ghpvc/?username=EdgarMoya&color=2685BF&style=flat-square" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=edgarmoya&color=2685BF&style=flat-square" alt=""/>
 
 ### :man_technologist: About Me:
 I'm a Cuban programming enthusiast, with the spirit of sharing knowledge
@@ -31,7 +31,7 @@ And learning more...
 
 <div id="stats" align="center">
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EdgarMoya&theme=dracula&hide_border=true)](https://git.io/streak-stats)
-[![EdgarMoya's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdgarMoya&theme=dracula&hide_border=true)](https://github.com/EdgarMoya/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=edgarmoya&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+[![EdgarMoya's GitHub stats](https://github-readme-stats.vercel.app/api?username=edgarmoya&theme=dracula&hide_border=true)](https://github.com/EdgarMoya/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdgarMoya&theme=dracula&hide_border=true&layout=compact)](https://github.com/EdgarMoya/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edgarmoya&theme=dracula&hide_border=true&layout=compact)](https://github.com/edgarmoya/github-readme-stats)
