@@ -32,6 +32,4 @@ And learning more...
 <div id="stats" align="center">
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=edgarmoya&theme=dracula&hide_border=true)](https://git.io/streak-stats)
-[![EdgarMoya's GitHub stats](https://github-readme-stats.vercel.app/api?username=edgarmoya&theme=dracula&hide_border=true)](https://github.com/EdgarMoya/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edgarmoya&theme=dracula&hide_border=true&layout=compact)](https://github.com/edgarmoya/github-readme-stats)
