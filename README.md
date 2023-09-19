@@ -8,15 +8,18 @@ I'm a Cuban programming enthusiast, with the spirit of sharing knowledge
 ---
 
 ### :hammer_and_wrench: Languages and Tools:
-[![ApacheNetbeans](https://img.shields.io/badge/Apache_Netbeans-FF9900?style=for-the-badge&logo=ApacheNetBeansIDE&logoColor=white&labelColor=101010)]()
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![Java](https://img.shields.io/badge/Java-F5792A?style=for-the-badge&logo=BuyMeACoffee&logoColor=white&labelColor=101010)]()
-</br>
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
-[![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=101010)]()
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=101010)]()
 </br>
 [![Vscode](https://img.shields.io/badge/vscode-5C2D91?style=for-the-badge&logo=VisualStudioCode&logoColor=white&labelColor=101010)]()
-[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white&labelColor=101010)]()
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=101010)]()
+[![Netbeans](https://img.shields.io/badge/Netbeans-FF9900?style=for-the-badge&logo=ApacheNetBeansIDE&logoColor=white&labelColor=101010)]()
+[![pycharm](https://img.shields.io/badge/pycharm-FDEE21?style=for-the-badge&logo=pycharm&logoColor=white&labelColor=101010)]()
+</br>
+[![django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)]()
+[![react](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
+[![bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)]()
 </br>
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white&labelColor=101010)]()
 </br>
