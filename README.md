@@ -3,7 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=edgarmoya&color=blue&style=for-the-badge"/>
 
 ### :man_technologist: About Me:
-I'm a Cuban programming enthusiast, with the spirit of sharing knowledge
+I'm a programming enthusiast, with the spirit of sharing knowledge
 
 ---
 
